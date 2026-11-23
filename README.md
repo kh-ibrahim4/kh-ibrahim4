@@ -8,10 +8,10 @@ I build complete applications end to end, from the database schema to the user i
 
 | Area | Tools |
 |---|---|
-| Languages | Java · PHP · JavaScript · SQL |
-| Web | HTML5 · CSS3 · vanilla JavaScript |
+| Languages | Java · Python · PHP · JavaScript · SQL |
+| Web | Django · HTML5 · CSS3 · vanilla JavaScript · Bootstrap |
 | Desktop & mobile | JavaFX · Android (Java) |
-| Databases | MySQL |
+| Databases | MySQL · SQLite |
 | Tools | Git · GitHub · NetBeans · Android Studio · XAMPP |
 
 ## Featured projects
@@ -21,6 +21,9 @@ Desktop inventory manager built with **JavaFX** and **MySQL**: product CRUD, rol
 
 ### [Hospital Management System](https://github.com/kh-ibrahim4/hospital-management-system)
 Role-based web app in **PHP** and **MySQL** with separate dashboards for doctors, pharmacists and patients.
+
+### [Student Registration System](https://github.com/kh-ibrahim4/student-registration-django)
+Web app in **Python** and **Django** for registering students, with server-side form validation and photo upload.
 
 ### [MEGA MEDIA Website](https://github.com/kh-ibrahim4/mega-media-website)
 Responsive multi-page agency website in **HTML, CSS and JavaScript** with validated forms. [Live demo](https://kh-ibrahim4.github.io/mega-media-website/)
