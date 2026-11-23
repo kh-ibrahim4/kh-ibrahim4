@@ -19,6 +19,9 @@ I build complete applications end to end, from the database schema to the user i
 ### [DVLD – Driving License Management](https://github.com/kh-ibrahim4/dvld-license-management)
 Desktop system in **C#**, **Windows Forms** and **SQL Server** on a three-tier architecture: license applications, tests, issuing, renewal and detention. Team project.
 
+### [BookFinder](https://github.com/kh-ibrahim4/bookfinder-android)
+Android app in **Java** that searches the Google Books API with an iTunes fallback, with a results list, details tab and notifications.
+
 ### [E-Store Management System](https://github.com/kh-ibrahim4/estore-management-javafx)
 Desktop inventory manager built with **JavaFX** and **MySQL**: product CRUD, role-aware listings, FXML views and JDBC prepared statements.
 
