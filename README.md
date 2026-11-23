@@ -8,13 +8,16 @@ I build complete applications end to end, from the database schema to the user i
 
 | Area | Tools |
 |---|---|
-| Languages | Java · Python · PHP · JavaScript · SQL |
+| Languages | Java · C# · Python · PHP · JavaScript · SQL |
 | Web | Django · HTML5 · CSS3 · vanilla JavaScript · Bootstrap |
-| Desktop & mobile | JavaFX · Android (Java) |
-| Databases | MySQL · SQLite |
-| Tools | Git · GitHub · NetBeans · Android Studio · XAMPP |
+| Desktop & mobile | Windows Forms (.NET) · JavaFX · Android (Java) |
+| Databases | SQL Server · MySQL · SQLite |
+| Tools | Git · GitHub · Visual Studio · NetBeans · Android Studio · XAMPP |
 
 ## Featured projects
+
+### [DVLD – Driving License Management](https://github.com/kh-ibrahim4/dvld-license-management)
+Desktop system in **C#**, **Windows Forms** and **SQL Server** on a three-tier architecture: license applications, tests, issuing, renewal and detention. Team project.
 
 ### [E-Store Management System](https://github.com/kh-ibrahim4/estore-management-javafx)
 Desktop inventory manager built with **JavaFX** and **MySQL**: product CRUD, role-aware listings, FXML views and JDBC prepared statements.
